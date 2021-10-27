@@ -1,0 +1,9 @@
+name: dbunk_flask
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.7
+  - Flask
+  - numpy
+  - flask-restx
